@@ -3,7 +3,7 @@
 ##  Objective
 Perform statistical and visual exploration to extract meaningful insights from the dataset.
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
@@ -31,5 +31,5 @@ Perform statistical and visual exploration to extract meaningful insights from t
 - Jupyter Notebook (.ipynb)
 
 
-👩‍💻 Created by Induja N  
-Aspiring Data Analyst
+ Created by Induja N  
+
